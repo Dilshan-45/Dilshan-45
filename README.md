@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I am Dilshan 
+Computer Science Student | Aspiring AI & Machine Learning Engineer
+I'm a Computer Science student at FAST-NUCES, currently building my programming and mathematical foundations.
 
-<!--
-**Dilshan-45/Dilshan-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in Artificial Intelligence, Machine Learning, Data Science and problem-solving.
 
-Here are some ideas to get you started:
+🎯 **Currently Learning**
+- C Programming
+- Programming Fundamentals
+- Mathematics and Calculus
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Future Goals**
+- Learn Python and its libraries
+- Explore Artificial Intelligence and Machine Learning
+- Build practical programming projects
+- Develop strong software engineering skills
+
+💡 **Interests**
+- Artificial Intelligence
+- Machine Learning
+- Mathematics and Statistics
+- Technology and Innovation
+📁 **Connect With Me**
+
+- **GitHub:** My GitHub Profile  
+  (https://github.com/Dilshan-45)
+
+---
+
+Learning every day, building step by step.
